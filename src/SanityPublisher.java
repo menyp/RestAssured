@@ -17,8 +17,8 @@ import org.hamcrest.Matchers.*;
 
 public class SanityPublisher extends FunctionalTest {
 	
-	@Test(enabled = true, testName = "URL Tab", description = "Check the URL tab",
-			groups = { "Sanity Android" })
+	@Test(enabled = true, testName = "", description = "",
+			groups = { "Sanity Publisher" })
 
 	public void getAccessToken() throws ParserConfigurationException, SAXException,
 			IOException, InterruptedException {
