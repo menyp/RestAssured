@@ -5,7 +5,6 @@
 	<classpathentry kind="lib" path="lib/rest-assured-3.0.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="lib/rest-assured-3.0.1-sources.jar"/>
 	<classpathentry kind="lib" path="lib/rest-assured-3.0.1.jar"/>
-	<classpathentry kind="lib" path="lib/testng-6.8.5.jar"/>
 	<classpathentry kind="lib" path="lib/docs/json-path-3.0.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="lib/docs/json-path-3.0.1-sources.jar"/>
 	<classpathentry kind="lib" path="lib/docs/rest-assured-3.0.1-javadoc.jar"/>
@@ -26,5 +25,6 @@
 	<classpathentry kind="lib" path="lib/rest-assured-3.0.1-deps/httpcore-4.4.4.jar"/>
 	<classpathentry kind="lib" path="lib/rest-assured-3.0.1-deps/httpmime-4.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/rest-assured-3.0.1-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
