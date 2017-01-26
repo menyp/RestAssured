@@ -17,8 +17,8 @@ public class FunctionalTest {
 	        
 	    //RestAssured.baseURI = "https://sgwin2012r2.skygiraffe.com";
     	//RestAssured.basePath = "/skygiraffeauthorizationserver/oauth2/";
-
-
+	        
+	        
 	        String basePathAuth = System.getProperty("server.base");
 	        if(basePathAuth==null){
 	        	basePathAuth = "/skygiraffeauthorizationserver/oauth2/";

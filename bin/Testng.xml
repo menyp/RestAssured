@@ -5,7 +5,7 @@
       <groups>
 		<run>
 		    
-		    <include name="Sanity Publisher1"/>      
+		    <include name="Sanity Publisher"/>      
 		    
 		</run>
 	</groups>
@@ -13,7 +13,11 @@
     <classes>
         
           <class name="SanityPublisher"/>
-          
+          <class name="FunctionalTest"/>
+          	
+
+          	
+          	          
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
